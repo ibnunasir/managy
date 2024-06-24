@@ -1,0 +1,25 @@
+{
+  "short_name": "Stock Take",
+  "name": "Stock Take",
+  "icons": [
+    {
+      "src": "icons/boxx.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/boxx.png" ,
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+        "src": "icons/boxx.png",
+        "sizes": "1024x1024",
+        "type": "image/png"
+      }
+  ],
+  "start_url": "/managy",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
